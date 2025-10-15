@@ -1,0 +1,13 @@
+# Python version: 3.10+
+# NOTE: Install `torch` separately following instructions for your OS/CUDA at https://pytorch.org/get-started/locally/
+pandas>=1.0
+numpy>=1.22
+scikit-learn>=1.0
+lightgbm
+catboost
+tqdm
+joblib
+timm
+Pillow
+requests
+scipy

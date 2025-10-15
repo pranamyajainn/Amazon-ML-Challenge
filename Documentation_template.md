@@ -1,8 +1,8 @@
 # ML Challenge 2025: Smart Product Pricing Solution Template
 
-**Team Name:** [Your Team Name]  
-**Team Members:** [List all team members]  
-**Submission Date:** [Date]
+**Team Name:** Artificial Intelligent 
+**Team Members:** Pranamya Jain, Kaustubh Kumar, Vedant Warrier 
+**Submission Date:** Oct 13th, 2025 
 
 ---
 
